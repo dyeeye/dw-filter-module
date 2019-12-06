@@ -1,0 +1,2 @@
+# filtering logic in Mule 4 application
+Design of REST filtering logic has been described on this blog [post](https://profit-online.pl/2019/11/content-filter-pattern-for-rest-service-fields-filtering/). Implementation description can be found [here](https://profit-online.pl/2019/12/content-filter-pattern-for-rest-service-fields-filtering-implementation/).
